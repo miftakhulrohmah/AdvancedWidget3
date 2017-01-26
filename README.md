@@ -3,6 +3,7 @@
 > Judul Aplikasi : Advanced Widget 3 <br> <br>
 
 > Tampilan AdvancedWidget3 <br>
+![Screenshot](https://github.com/miftakhulrohmah/AdvancedWidget3/blob/master/AdvancedWidget3.PNG)
 ![Screenshot](https://github.com/miftakhulrohmah/AdvancedWidget3/blob/master/Screenshot_2016-09-25-20-43-57.png) <br>
 
  >Identitas <br>
